@@ -25,7 +25,7 @@ const zeusmenu = (prefix) => {
 ╔════════════════════
   TRADUZIDO POR *ALISHA*
   DUVIDAS? 👇
-  WA.me/558681486869
+  WA.me/5586981486869
 ╚════════════════════`
 }
 

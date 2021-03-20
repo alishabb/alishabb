@@ -9,9 +9,9 @@ const help = (prefix) => {
 ➸ Prefix:  *「${prefix} 」*
 ➸ Status: *「 Online 」*
 
-       • ──── ✾ ──── •
+       • ────●──── •
        *FIGURINHAS*【✔】
-       • ──── ✾ ──── •
+       • ────●──── •
       
 ➸ Comando : *${prefix}sticker* ou *${prefix}stiker*
 ➸ útil em : converter imagem/gif/vídeo em adesivo
@@ -26,9 +26,9 @@ const help = (prefix) => {
 ➸ útil em : converter texto em adesivo
 ➸ uso : *${prefix}tsticker seu texto aqui*\n
 
-       • ─── ✾ ─── •
+       • ─── ● ─── •
        *MEMES*【✔】
-       • ─── ✾ ─── •
+       • ─── ●─── •
       
 ➸ Comando : *${prefix}meme*
 ➸ útil em : mandar imagens aleatórias de meme [inglês]
@@ -37,9 +37,9 @@ const help = (prefix) => {
 ➸ útil em : mandar imagens aleatórias de meme [indo]
 ➸ uso : basta enviar o comando
 
-       • ──── ✾ ──── •
+       • ──── ● ──── •
        *OUTROS...*【✔】
-       • ──── ✾ ──── •
+       • ──── ● ──── •
       
 ➸ Comando : *${prefix}gtts*
 ➸ útil em : converter texto em fala/áudio
@@ -67,9 +67,9 @@ const help = (prefix) => {
 ➸ uso : *${prefix}setprefix [texto|opcional]*\nexemplo : *${prefix}setprefix ?*
 ➸ Nota : Usado somente pelo proprietário do bot\n
 
-       • ─── ✾ ─── •
+       • ─── ● ─── •
        *GRUPO*【✔】
-       • ─── ✾ ─── •
+       • ─── ● ─── •
       
 ➸ Comando : *${prefix}linkgroup*
 ➸ útil em : enviar o link do grupo
@@ -100,9 +100,9 @@ const help = (prefix) => {
 ➸ uso : *${prefix}demote e o @da pessoa*\n
 ➸ Nota : Você precisa ser admin e o bot também
 
-       • ────── ✾ ────── •
+       • ────── ● ────── •
        *MENU DA ALISHA*【✔】
-       • ────── ✾ ────── •              
+       • ────── ● ────── •              
 
 ➸ *${prefix}help1* ♔
     

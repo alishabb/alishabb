@@ -32,15 +32,15 @@ INSTALAÇÃO:
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/alishabb/alishabb.git
-> cd zeus
+> git clone https://github.com/danielpereiradacosta555/daniel.git
+> cd daniel
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Basta escanear o código qr e ... pronto
 ```
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| ZEUS BOT      |                   Característica        |
+| ALISHA BOT       |             RECURSOS        |
 | :-----------: | :------------------------------: |
 |       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
